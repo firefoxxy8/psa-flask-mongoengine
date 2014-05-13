@@ -1,0 +1,7 @@
+Flask
+Flask-Security
+Flask-Script
+Flask-Mongoengine
+Jinja2
+mongoengine==0.8.4
+-e git+git@github.com:omab/python-social-auth.git@17b8a78b18522348c57b4c3a2d92b4fe9cd98aa4#egg=python_social_auth-master

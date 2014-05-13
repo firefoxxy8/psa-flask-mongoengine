@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+
+{% block content %}
+<a href="{{ url_for("social.auth", backend="soundcloud") }}">Soundcloud OAuth2</a> <br />
+<a href="{{ url_for("social.auth", backend="lastfm") }}">LastFm</a> <br />
+{% endblock %}

@@ -1,0 +1,5 @@
+SOCIAL_AUTH_LASTFM_KEY = '<LastFM Public Key>'
+SOCIAL_AUTH_LASTFM_SECRET = '<LastFM Secret Key>'
+
+SOCIAL_AUTH_SOUNDCLOUD_KEY = '<Soundcloud Publick Key>'
+SOCIAL_AUTH_SOUNDCLOUD_SECRET = '<Soundcloud Secret Key>'
